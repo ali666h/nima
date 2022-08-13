@@ -1,0 +1,892 @@
+html , body{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container{
+    background-color: rgba(50, 50, 78, 0.959);
+    min-width: 100%;
+    height: 130px;
+    /* position: relative; */
+    font-weight: 700;
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+
+}
+
+a{
+    color: white;
+    font-size: 2.4em;
+    position: absolute;
+    top: 2.2rem;
+    left: 6rem;
+    text-decoration: none!important;
+
+}
+
+
+.kami{
+  font-size: 1.1rem;
+  position: relative;
+  top: 2.2rem;
+  left: 10rem;
+ 
+
+}
+
+
+.px-0{
+    display: inline;
+    position: absolute;
+    top: 2.1rem;
+    left: 82.4rem;
+    box-sizing: border-box;
+    font-size: 1.3rem;
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    padding: 16px;
+font-weight: 700;
+}
+
+
+
+.ny{
+    display: inline;
+    position: absolute;
+    top: 2.1rem;
+    left: 93.7rem;
+    box-sizing: border-box;
+    font-size: 1.3rem;
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    padding: 16px;
+    font-weight: 700;
+
+}
+
+
+
+
+.og{
+    display: inline;
+    position: absolute;
+    top: 2.1rem;
+    left: 102rem;
+    box-sizing: border-box;
+    font-size: 1.3rem;
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    padding: 16px;
+    font-weight: 700;   
+}
+
+
+
+.top1{
+    height: 486px;
+    background-color: #1abc9c;
+    height: 850px;
+
+}
+.aks{
+    width: 250px;
+    height: 260px;
+    position: absolute;
+    top: 18rem;
+}
+
+
+
+
+.masthead-heading{
+    min-height: 992px;
+    display: inline;
+    font-size: 4rem;
+    line-height: 3.5;
+    position: absolute;
+    top: 34rem;
+    left: 42rem;
+    color: white;
+    
+}
+
+.text-uppercase{
+    text-transform: uppercase!important;
+}
+
+
+.mb-0{
+    margin-bottom: 0!important;
+}
+
+
+.fa-star{
+    font-size: 2rem;
+}
+
+
+.text-white{
+    color: #fff!important;
+}
+
+.fa-solid{
+    font-family: 'Font Awesome 6 Free';
+    font-weight: 900;
+    position: absolute;
+    top: 46rem;
+    left: 58.2rem;
+    font-size: 2.5rem;
+}
+
+
+
+
+.l-line {
+    width: 100%;
+    max-width: 7rem;
+    height: 0.25rem;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    position: absolute;
+    top: 47.2rem;
+    left: 50rem;
+}
+
+
+.boht{
+    width: 100%;
+    max-width: 7rem;
+    height: 0.25rem;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    position: absolute;
+    top: 47.2rem;
+    left: 62.2rem;
+}
+.mr-3{
+    margin-right: 1rem!important;
+
+}
+
+
+
+
+.matn{
+    font-size: 1.5rem;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 50rem;
+    left: 41.5rem;
+    font-size: 2rem;
+}
+
+
+
+.containerr{
+    margin-top: 1.5rem;
+
+}
+
+
+
+.page-section-heading{
+    line-height: 2.5rem;
+    font-weight: 700px;
+    font-size: 3rem;
+color: #343a40;
+}
+
+
+
+
+
+.text-secondary {
+    --bs-text-opacity: 1;
+    color: rgba(var(--bs-secondary-rgb), var(--bs-text-opacity)) !important;
+}
+
+
+
+.text-uppercase {
+    text-transform: uppercase !important;
+}
+
+
+
+
+.text-center {
+    text-align: center !important;
+}
+
+
+
+
+h2{
+    margin-top: 8rem;
+    margin-bottom: 0.5rem;
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-weight: 700;
+    color: var(--bs-body-color)!important;
+
+
+}
+
+
+#ow{
+    margin-top: 28.5rem;
+    color: rgb(0, 0, 0)!important;
+   
+
+}
+
+
+#bg{
+    background-color: rgb(0, 0, 0)!important;
+    margin-top: 28.5rem;
+}
+
+#hg{
+    background-color: rgb(0, 0, 0)!important;
+    margin-top: 28.5rem;
+}
+.jus{
+column-gap: 3rem;
+    margin-top: 8rem;
+    
+
+}
+
+.pic-in{
+    width: 296px;
+    height: 213px;}
+
+
+    .pm{        padding: 15px;
+   
+        border-radius: 25px;
+
+
+
+        
+        max-width: 25rem;
+       
+    }
+
+
+    .nima{
+        background-color: #1abc9c;
+        height: 640px;
+        
+       
+    }
+
+     .clas{
+        font-size: 3rem;
+        line-height: 2.5rem;
+        position: relative;
+        top: 4rem;
+    
+     }
+        .ob{
+            position: absolute;
+            top: 126rem;
+            color: #ffffff!important;
+        } 
+           .op{
+            position: absolute;
+            margin-top: 80rem;
+            background-color: #ffffff!important;
+           }
+
+
+
+           .lead {
+            font-size: 1.25rem;
+            font-weight: 300rem;
+            color: rgb(255, 255, 255);
+            height: 210px;
+            width: 296px;
+        }
+      
+        .matn-11{
+            width: 320px;
+            height: 226px;
+            margin-left: 160px;
+            padding-right: 12px;
+            padding-left: 12px;
+            position: absolute;
+            top: 130rem;
+            left: 29rem;
+
+            
+        }
+
+
+
+        .matn12{
+            width: 320px;
+            height: 226px;
+            margin-right: 160px;
+            padding-right: 12px;
+            padding-left: 12px;
+            
+            
+        }
+    
+
+        .oa{
+            font-size: 1.25rem;
+            font-weight: 300;
+            height: 210px;
+            width: 296px;
+            color: #ffffff;
+            position: absolute;
+            top: 130rem;
+            left: 61rem;
+          
+           
+        }
+
+
+
+
+
+        .inp{
+            width: 936px;
+            height: 66px;
+        }
+
+
+
+
+
+        .downl{
+            border: 0.125rem solid white;
+            padding-top: 1rem;
+            padding-right: 1.75rem;
+            padding-bottom: 1rem;
+            padding-left: 1.75rem;
+            font-size: 1.25rem;
+            MIN-height: 66px !important;
+           min-width: 232.5px !important;
+           font-size: 1.25rem;
+           border-radius: 10px;
+           margin-top: 146rem;
+           margin-left: 45.5rem;
+        }
+
+
+
+
+
+        .downl:hover{
+            color: black;
+            background-color: white;
+        }
+
+
+.ali{
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 3rem;
+    font-weight: 700;
+    position: absolute;
+    top: 158.6rem;
+    left: 48.5rem;
+}
+
+
+.hari{
+   position: absolute;
+   top: 136.1rem;
+   left: 60.5rem;
+}
+
+
+
+.har{
+    position: absolute;
+    top: 135rem;
+    left: 56.5rem;
+
+}
+
+
+
+.harii{
+    position: absolute;
+    top: 136.1rem;
+    left: 48.2rem;
+}
+
+
+
+
+
+
+.inp2 {
+    font-size: 1.5rem;
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+    border-radius: 0;
+    border-width: 1px;
+    width: 616px;
+    height: 88px;
+    padding-top: 1.5rem;
+    padding-right: 48px;
+    padding-bottom: 1.5rem;
+    padding-left: 0px;
+    border: none;
+    border-bottom: 1px solid black;
+    position: absolute;
+    top: 173rem;
+    left: 38.5rem;
+
+}
+
+
+
+
+input {
+    overflow: visible;
+}
+
+
+
+input{
+margin: 0;
+font-family: inherit;
+line-height: inherit;
+}
+
+
+
+
+.amin{
+    top: 182rem;
+    left: 38.5rem;
+}
+
+
+.aminn{
+    top: 190rem;
+    left: 38.5rem;
+}
+
+
+
+
+.hel{
+    top: 200rem;
+    left: 38.5rem;
+}
+
+
+
+
+.btn1 {
+    padding: 1rem 1.75rem;
+    font-size: 1.25rem;
+    color: white;
+    background-color: #1abc9c;
+    border: 0.125rem solid transparent;
+    border-radius: 0.7rem;
+    width: 6%;
+    height: 7%;
+    top: 0;
+    left: 25%;
+    position: absolute;
+    top: 210rem;
+    left: 38.6rem;
+    
+}
+
+
+
+
+.position-absolute {
+    position: absolute!important;
+}
+
+
+
+button, select{
+    text-transform: none;
+}
+
+
+button, input {
+    overflow: visible;
+}
+
+
+
+
+button, input, optgroup, select, textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+
+
+
+
+
+.containers{
+    background-color: #2c3e50;
+   width: 100%;
+   height: 28rem;
+   position: absolute;
+
+   top: 220rem;
+}
+
+
+
+
+h4 {
+    font-size: 1.5rem;
+    color: #ffffff;
+    line-height: 1.2;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+
+
+
+.mb-4{
+    display: flex;
+    margin-left: 77rem;
+    margin-top: 8rem;
+  }
+
+
+
+
+
+  .fw-bold {
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+
+
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+
+
+.sh {
+    margin-bottom: 0 !important;
+    position: absolute;
+    top: 12rem;
+    left: 77rem;
+}
+
+
+.lead {
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+
+
+
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+
+.tl {
+    color: #1abc9c;
+    font-size: 1.4rem;
+    text-decoration: underline;
+    position: absolute;
+    top: 15rem;
+    left: 79.2rem;
+}
+
+.lasa {
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-weight: 700;
+    line-height: 1.2;}
+
+
+.di{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    display: flex;
+    text-align: center;
+    top: 227.8rem;
+    left: 46rem;
+}
+
+
+
+.btn-social {
+    border-radius: 100%;
+    display: inline-flex;
+    width: 3.25rem;
+    height: 3.25rem;
+    font-size: 1.25rem;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.mx-1 {
+    margin-right: 0.25rem !important;
+    margin-left: 0.25rem !important;
+}
+
+
+
+.btn-outline-light {
+    color: #f8f9fa;
+
+}
+
+
+
+
+.bts{
+    color: #ffffff;
+    padding-top: 8px;
+}
+
+
+
+.btn {
+    display: inline-block;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-color: transparent;
+    border: 0.125rem solid transparent;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    /* border-radius: 0.5rem; */
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+border-color: #ffffff;
+
+}
+
+
+
+
+
+
+.w{
+position: absolute;
+top: 229em;
+left: 51rem;
+
+
+
+}
+
+
+
+.bts:hover{
+    color: #000000;
+}
+
+
+h3{
+    margin-bottom: .5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    margin-top: 0;
+}
+
+
+.fenek{
+    position: absolute;
+    top: 229rem;
+    border-radius: 100%;
+    border-color: #ffffff;
+    left: 47rem;
+}
+
+
+
+
+
+
+.btnm {
+    border-radius: 100%;
+    display: inline-flex;
+    width: 3.25rem;
+    height: 3.25rem;
+    font-size: 1.25rem;
+    justify-content: center;
+    align-items: center;
+    color: #f8f9fa;
+    border-color: #f8f9fa;
+    background-color: #2c3e50;
+    border: 0.125rem solid;
+}
+
+
+.mx-1 {
+    margin-left: .25rem!important;
+    margin-right: .25rem!important;
+}
+
+
+
+
+.btnm {
+    border-radius: 100%;
+    display: inline-flex;
+    width: 3.25rem;
+    height: 3.25rem;
+    font-size: 1.25rem;
+    justify-content: center;
+    align-items: center;
+    color: #f8f9fa;
+    border-color: #f8f9fa;
+    background-color: #2c3e50;
+    border: 0.125rem solid;
+}
+
+
+
+.mx-1 {
+    margin-left: .25rem!important;
+}
+
+
+
+.fab{
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    display: var(--fa-display, inline-block);
+    font-style: normal;
+    font-variant: normal;
+    line-height: 1;
+    text-rendering: auto;
+    font-family: 'Font Awesome 6 Brands';
+    font-weight: 400;
+}
+
+
+
+.mac-10{
+    position: absolute;
+    top: 229rem;
+    left: 43rem;
+}
+
+
+
+.asm-10{
+    position: absolute;
+    top: 229rem;
+    left: 39rem;
+}
+
+
+.ft1 {
+    width: 30%;
+    height: 142px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+
+.mb-4 {
+    margin-bottom: 1.5rem!important;
+   
+}
+
+
+h4 {
+    font-size: 1.5rem;
+    margin-top: 0;
+
+}
+
+
+
+
+.foot {
+    height: 302px;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    background-color: #2c3e50;
+    color: #fff;
+}
+
+
+
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+
+
+
+.kn-44{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 227.5rem;
+    left: 18rem;
+}
+
+
+
+
+.ki{
+    font-size: 1.25rem;
+    font-weight: 300;
+    color: #ffffff;
+    position: absolute;
+    top: 231rem;
+    left: 16.5rem;
+}
+
+
+.cp{
+    background-color: #000000;
+    height: 6.5rem;
+    position: relative;
+    margin-top: 57rem;
+   
+}
+
+
+
+
+
+
+.m4{
+    color: rgb(255, 255, 255);
+   position: absolute;
+   top: 2.7rem;
+   left: 51rem;
+}
